@@ -21,11 +21,3 @@
 I’m still early in my studies. I’ve practiced **C++** and **JavaScript**, and I’ve started learning **Node.js** and **Express** for small backend exercises—nothing fancy yet.
 
 If you spot mistakes in my repos, feedback is welcome.
-
-------
-
-<div align="center">
-
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=yejianqin61&show_icons=true&theme=default&hide_border=true&hide_title=false&title_color=333" alt="GitHub stats" />
-
-</div>
