@@ -1,6 +1,6 @@
 <div align="center">
 
-**Hi — I’m a Computer Science and Technology (CST) student.**
+**Hi — I’m a Computer Science and Technology (CST) student in XMUM.**
 
 <p>
   <a href="https://github.com/yejianqin61-cell"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
