@@ -21,3 +21,5 @@
 I’m still early in my studies. I’ve practiced **C++** and **JavaScript**, and I’ve started learning **Node.js** and **Express** for small backend exercises—nothing fancy yet.
 
 If you spot mistakes in my repos, feedback is welcome.
+
+Every day in the future,do not betray your winter in 2021.
