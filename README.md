@@ -1,25 +1,21 @@
 <div align="center">
 
-**Hi — I’m a Computer Science and Technology (CST) student in XMUM.**
+🎓 **Xiamen University Malaysia** &nbsp;|&nbsp; 📚 Major: **Computer Science and Technology**
 
-<p>
-  <a href="https://github.com/yejianqin61-cell"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="mailto:yejianqin61@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
+💬 Any issue or PR is warmly welcomed.
 
-<p>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
-</p>
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=yejianqin61-cell&color=blue&style=flat-square" alt="Profile Views" />
+
+<br>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yejianqin61-cell&layout=compact&theme=tokyonight" alt="Top Languages" />
+</a>
+
+<a href="https://git.io/streak-stats">
+  <img height="180" src="https://streak-stats.demolab.com/?user=yejianqin61-cell&theme=tokyonight" alt="GitHub Streak" />
+</a>
 
 </div>
-
-------
-
-I’m still early in my studies. I’ve practiced **C++** and **JavaScript**, and I’ve started learning **Node.js** and **Express** for small backend exercises—nothing fancy yet.
-
-If you spot mistakes in my repos, feedback is welcome.
-
-Every day in the future,do not betray your winter in 2021.
