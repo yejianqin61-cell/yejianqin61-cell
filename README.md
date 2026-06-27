@@ -11,7 +11,7 @@
 <br>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Thank+you+for+the+winter+in+2021;Proceeding+toward+is+the+only+thing+I+can+do" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=4000&pause=1500&color=58A6FF&center=true&vCenter=true&width=700&multiline=true&lines=Thank+you+for+Winter+2021;Proceeding+is+the+only+thing+I+can+do." alt="Typing SVG" />
 </a>
 
 <br>
