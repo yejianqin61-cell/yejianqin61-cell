@@ -10,7 +10,9 @@
 
 <br>
 
-<img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22720%22 height=%22100%22%3E%3Cdefs%3E%3Cfilter id=%22g%22 x=%22-20%25%22 y=%22-20%25%22 width=%22140%25%22 height=%22140%25%22%3E%3CfeGaussianBlur stdDeviation=%223%22 result=%22b%22/%3E%3CfeMerge%3E%3CfeMergeNode in=%22b%22/%3E%3CfeMergeNode in=%22b%22/%3E%3CfeMergeNode in=%22SourceGraphic%22/%3E%3C/feMerge%3E%3C/filter%3E%3C/defs%3E%3Ctext x=%22360%22 y=%2240%22 text-anchor=%22middle%22 font-family=%22Segoe+UI,sans-serif%22 font-size=%2217%22 fill=%22%2358a6ff%22 filter=%22url(%23g)%22%3EThank you for the winter in 2021,%3C/text%3E%3Ctext x=%22360%22 y=%2268%22 text-anchor=%22middle%22 font-family=%22Segoe+UI,sans-serif%22 font-size=%2217%22 fill=%22%2358a6ff%22 filter=%22url(%23g)%22%3Eproceeding toward is the only thing I can do.%3C/text%3E%3C/svg%3E" alt="Glowing text" />
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Thank+you+for+the+winter+in+2021;Proceeding+toward+is+the+only+thing+I+can+do" alt="Typing SVG" />
+</a>
 
 <br>
 
