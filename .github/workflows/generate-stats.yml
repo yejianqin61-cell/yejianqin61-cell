@@ -1,0 +1,42 @@
+name: Generate Stats Cards
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'  # every 6 hours
+  workflow_dispatch:        # manual trigger
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/generate-stats.yml'  # re-run when workflow itself changes
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate GitHub Stats
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=yejianqin61-cell&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true
+          path: assets/github-stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate Top Languages
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-languages
+          options: username=yejianqin61-cell&layout=compact&theme=tokyonight&hide_border=true
+          path: assets/top-languages.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit and push SVGs
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/
+          git diff --staged --quiet || git commit -m "Auto-update stats cards [skip ci]"
+          git push

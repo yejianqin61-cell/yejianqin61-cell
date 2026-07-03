@@ -21,13 +21,9 @@
 <br>
 <br>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=yejianqin61-cell&show_icons=true&theme=tokyonight&rank_icon=github" alt="GitHub Stats" />
-</a>
+<img height="180" src="assets/github-stats.svg" alt="GitHub Stats" />
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yejianqin61-cell&layout=compact&theme=tokyonight" alt="Top Languages" />
-</a>
+<img height="180" src="assets/top-languages.svg" alt="Top Languages" />
 
 <a href="https://git.io/streak-stats">
   <img height="180" src="https://streak-stats.demolab.com/?user=yejianqin61-cell&theme=tokyonight" alt="GitHub Streak" />
