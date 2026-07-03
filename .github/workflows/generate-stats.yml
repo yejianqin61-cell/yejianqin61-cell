@@ -28,7 +28,7 @@ jobs:
       - name: Generate Top Languages
         uses: stats-organization/github-readme-stats-action@v2
         with:
-          card: top-languages
+          card: top-langs
           options: username=yejianqin61-cell&layout=compact&theme=tokyonight&hide_border=true
           path: assets/top-languages.svg
           token: ${{ secrets.GITHUB_TOKEN }}
