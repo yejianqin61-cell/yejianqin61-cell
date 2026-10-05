@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="260" viewBox="0 0 900 260" role="img" aria-label="人民需要什么，我会什么，我能做什么">
-  <title>人民需要什么 · 我会什么 · 我能做什么</title>
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="156" viewBox="0 0 880 156" role="img" aria-label="把简单的事情做得出人意料的精彩">
+  <title>把简单的事情做得出人意料的精彩</title>
 
   <defs>
     <!-- 光晕：把模糊结果叠加三次，堆出饱和的暖金光晕 -->
@@ -38,14 +38,10 @@
   </defs>
 
   <g filter="url(#glow)" class="halo">
-    <text class="line" x="450" y="76">人民需要什么</text>
-    <text class="line" x="450" y="144">我会什么</text>
-    <text class="line" x="450" y="212">我能做什么</text>
+    <text class="line" x="440" y="94">把简单的事情做得出人意料的精彩</text>
   </g>
 
   <g class="core">
-    <text class="line" x="450" y="76">人民需要什么</text>
-    <text class="line" x="450" y="144">我会什么</text>
-    <text class="line" x="450" y="212">我能做什么</text>
+    <text class="line" x="440" y="94">把简单的事情做得出人意料的精彩</text>
   </g>
 </svg>

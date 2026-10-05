@@ -2,7 +2,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img src="assets/banner-light.svg" alt="人民需要什么 · 我会什么 · 我能做什么">
+  <img src="assets/banner-light.svg" alt="把简单的事情做得出人意料的精彩">
 </picture>
 
 </div>
