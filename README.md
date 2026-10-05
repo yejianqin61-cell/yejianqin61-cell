@@ -1,8 +1,5 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img src="assets/banner-light.svg" alt="把简单的事情做得出人意料的精彩">
-</picture>
+<img src="assets/banner.webp" alt="深蓝夜色中的少女插画" width="640">
 
 </div>
