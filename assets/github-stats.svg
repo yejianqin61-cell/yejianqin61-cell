@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Ye Jianqin&#39;s GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 54, Total Commits  (last year) : 3072, Total PRs: 82, Total Issues: 51, Contributed to (last year): 5</desc>
+        <desc id="descId">Total Stars Earned: 54, Total Commits  (last year) : 3071, Total PRs: 82, Total Issues: 51, Contributed to (last year): 5</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 73.60374663252142;
+        stroke-dashoffset: 73.60376988769977;
       }
     }
   
