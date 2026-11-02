@@ -1,22 +1,21 @@
-# 叶建钦
+# Jianqin Ye
 
-厦门大学马来西亚分校（XMUM）计算机科学与技术（CST）学生。
+Computer Science and Technology student at Xiamen University Malaysia (XMUM).
 
-我关注 **AI Agent、智能体记忆与工具调用、人机协作**，也持续把这些想法做成可运行、可维护的产品。我的工作涵盖从需求梳理、交互与系统设计，到前后端开发、数据建模、测试和部署。
+I explore **AI agents, agent memory, tool use, and human–AI collaboration**, and turn those ideas into maintainable products. My work spans product discovery, interaction and systems design, full-stack implementation, data modelling, testing, and deployment.
 
-## 代表项目
+## Selected Projects
 
-- [XMUMDorm · 厦马小筑](https://github.com/yejianqin61-cell/XMUMDorm-2.0.0-LYZZ)：面向 XMUM 社区的校园生活平台，覆盖资讯、社团活动、树洞、二手交易、跑腿、食堂评价和日程等场景；采用 React / React Native、Express、MySQL 与共享 API 模块，为 Web 和移动端提供统一的业务能力。
-- [Cornie · 铃湾](https://github.com/yejianqin61-cell/Cornie)：本地优先的 AI 桌面伙伴，将对话、日记、待办、日程和收支整合进桌面应用，并把长期记忆设计为可追溯、可修正的 Wiki；基于 Electron、Vue、Express、SQLite 和 DeepSeek 构建。
-- [Dilee ERP](https://github.com/yejianqin61-cell/DileeErp)：以订单为中心串联销售、采购、生产、质检、仓储和结算的制造业 ERP；使用 Next.js、NestJS、Prisma、PostgreSQL 与 Docker Compose，并实现带权限边界的只读业务查询助手。
-- [dsh-our-free-model](https://github.com/yejianqin61-cell/dsh-our-free-model)：为 DeepSeek Harness 提供模型接入、路由降级、本地 OpenAI 兼容网关和工具输出压缩能力的插件，探索更低门槛、更可控的 Agent 运行环境。
-- [FigGenie Paper Diagram Skill](https://github.com/yejianqin61-cell/FigGenie-paper-diagram-skill)：把论文中的系统描述转化为可编辑的学术插图，支持 SVG、PDF 与 PPTX 输出，服务于科研写作和技术表达。
+- [XMUMDorm](https://github.com/yejianqin61-cell/XMUMDorm-2.0.0-LYZZ) — A campus-life platform for the XMUM community, bringing together announcements, clubs and events, an anonymous community feed, a marketplace, errands, canteen reviews, and personal schedules. Built with React, React Native, Express, MySQL, and shared API modules for Web and mobile clients.
+- [Cornie](https://github.com/yejianqin61-cell/Cornie) — A local-first AI desktop companion that combines conversations, diaries, tasks, calendars, and personal finance. Its long-term memory is designed as an auditable, editable wiki. Built with Electron, Vue, Express, SQLite, and DeepSeek.
+- [Dilee ERP](https://github.com/yejianqin61-cell/DileeErp) — An order-centred ERP for manufacturing teams, connecting sales, procurement, production, quality control, warehousing, and settlement. Built with Next.js, NestJS, Prisma, PostgreSQL, and Docker Compose, with a permission-bounded read-only business-query assistant.
+- [easy-workflow](https://github.com/yejianqin61-cell/easy-workflow) — A dependency-free collection of agent skills for turning dense model output into documents people can read and act on. It covers audits, plans, task briefs, summaries, registers, diagrams, and single-file HTML reports, with built-in checks for readability, links, and installability.
 
-## 能力
+## Skills
 
-- **AI 应用工程**：Agent 工作流、模型接入、工具调用、上下文与长期记忆设计、权限和风险边界。
-- **全栈产品开发**：TypeScript / JavaScript、React、Next.js、Vue、Node.js、Express、NestJS，以及 REST API 设计。
-- **桌面与移动端**：Electron、React Native、Expo，能够围绕真实使用场景完成多端产品交付。
-- **数据与工程化**：MySQL、PostgreSQL、SQLite、Prisma、数据库迁移、Docker、CI 与自动化验证。
+- **AI application engineering:** agent workflows, model integration, tool calling, context and long-term memory design, permissions, and risk boundaries.
+- **Full-stack development:** TypeScript, JavaScript, React, Next.js, Vue, Node.js, Express, NestJS, and REST API design.
+- **Desktop and mobile applications:** Electron, React Native, and Expo, with experience delivering products across platforms.
+- **Data and engineering practice:** MySQL, PostgreSQL, SQLite, Prisma, database migrations, Docker, CI, and automated verification.
 
-欢迎交流 AI Agent、校园产品、开发者工具和有趣的开源协作。
+I am always open to discussing AI agents, campus products, developer tools, and interesting open-source collaborations.
