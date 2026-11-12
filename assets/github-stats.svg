@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Ye Jianqin-xmum&#39;s GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 57, Total Commits  (last year) : 3255, Total PRs: 82, Total Issues: 52, Contributed to (last year): 6</desc>
+        <desc id="descId">Total Stars Earned: 58, Total Commits  (last year) : 3255, Total PRs: 82, Total Issues: 52, Contributed to (last year): 6</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 71.07295207429274;
+        stroke-dashoffset: 70.62834141443588;
       }
     }
   
@@ -169,7 +169,7 @@
         x="224.01"
         y="12.5"
         data-testid="stars"
-      >57</text>
+      >58</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
