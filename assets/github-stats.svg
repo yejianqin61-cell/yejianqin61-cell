@@ -8,8 +8,8 @@
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">Ye Jianqin-xmum&#39;s GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 59, Total Commits  (last year) : 3624, Total PRs: 99, Total Issues: 91, Contributed to (last year): 6</desc>
+        <title id="titleId">Ye Jianqin-xmum&#39;s GitHub Stats, Rank: A</title>
+        <desc id="descId">Total Stars Earned: 59, Total Commits  (last year) : 3625, Total PRs: 100, Total Issues: 91, Contributed to (last year): 6</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 62.93058919902388;
+        stroke-dashoffset: 62.71130918396358;
       }
     }
   
@@ -199,7 +199,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs"
-      >99</text>
+      >100</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
